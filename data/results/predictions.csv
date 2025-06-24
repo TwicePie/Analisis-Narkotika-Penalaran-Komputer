@@ -1,0 +1,6 @@
+query_id,predicted_solution,top_4_case_ids
+101,Lain-lain,"[np.int64(38), np.int64(167), np.int64(150), np.int64(32)]"
+102,Lain-lain,"[np.int64(38), np.int64(167), np.int64(187), np.int64(144)]"
+103,Lain-lain,"[np.int64(38), np.int64(167), np.int64(178), np.int64(144)]"
+104,Lain-lain,"[np.int64(38), np.int64(167), np.int64(32), np.int64(150)]"
+105,Lain-lain,"[np.int64(38), np.int64(167), np.int64(178), np.int64(144)]"

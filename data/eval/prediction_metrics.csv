@@ -1,0 +1,6 @@
+query_id,true_solution,predicted_solution,similarity_score
+101,Menjatuhkan pidana penjara selama 8 tahun dan denda 1 Milyar Rupiah karena menjadi perantara jual beli narkotika melebihi 5 gram.,Lain-lain,0.3968773
+102,Menjatuhkan pidana penjara selama 2 tahun karena penyalahgunaan narkotika golongan I bagi diri sendiri.,Lain-lain,0.37582454
+103,Menjatuhkan pidana penjara selama 5 tahun dan denda 1 Milyar Rupiah karena menjual narkotika golongan I.,Lain-lain,0.3972969
+104,Menjatuhkan pidana penjara selama 4 tahun karena memiliki atau menguasai Narkotika Golongan I.,Lain-lain,0.38217512
+105,Menjatuhkan pidana penjara seumur hidup karena permufakatan jahat mengedarkan narkotika melebihi 5 gram.,Lain-lain,0.3893657
